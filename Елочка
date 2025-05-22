@@ -1,0 +1,29 @@
+<html> <title> первые стихи </title>
+<body bgcolor="#0000ff" background="шары.jpg" text=”#ffffff”>
+<p align=center>
+<font face=”Arial Black”> <font color=”#ff0000”> <big>
+<MARQUEE> Привет! Это моя первая страничка!</MARQUEE>   </big> </font>
+<font color =”#ffff00”>
+<h1 align=left>Меня зовут Дмитрий! </h1>
+<h2 align=center>Я учусь в ММК! </h2>
+<h3 align=right>
+<P>
+<MARQUEE scrollDelay=28 behavior=alternate bgColor=”gold” height=66>
+<font color =”#ff0000”> Это моя любимая песенка! <font>
+</MARQUEE></P></B></FONT><I><FONT face=Arial size=4>
+</h3> </font>
+
+<p align=left> <font face=”Comic Sans MS”>
+В лесу родилась<img src ="елка.bmp"align="left"> <B><i>елочка.</B> </i><br>
+В лесу она росла. </font><br>
+ <font face=”Courier New”>
+<u> Зимой и летом стройная </u>, <br>
+<font  color =”green”> Зелёная</font> была. <br> </font>
+<b> Метель </b> ей пела песенку:<br>
+<font face=”Monotype Corsiva”> «Спи,<B> <i>ёлочка</i></B>, бай-бай»</font> <br>
+<b> <i>Мороз </b> </i>снежком укутывал:<br>
+<font face=”Monotype Corsiva”>
+<font size=5>«Смотри, не замерзай!»</font>
+</body>
+</html>
+					   
